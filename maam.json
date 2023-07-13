@@ -4,5 +4,14 @@
   "artist": "gittongchan",
   "author": "geomjabi",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "21": {
+      "title": "21",
+      "volume": "",
+      "last_updated": "1689272937",
+      "groups": {
+        "Protectorate Scans": "https://drive.google.com/drive/folders/11mxtj92T7slI3a0BSx319QHDkZNcnZUZ?usp=drive_link"
+      }
+    }
+  }
 }
